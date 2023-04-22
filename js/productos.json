@@ -1,0 +1,122 @@
+[
+    {
+        "id": "bulbasaur",
+        "titulo": "Bulbasaur",
+        "imagen": "../img/bulbasaur.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 25
+    },
+    {
+        "id": "charmander",
+        "titulo": "Charmander",
+        "imagen": "../img/charmander.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 25
+    },
+    {
+        "id": "squirtle",
+        "titulo": "Squirtle",
+        "imagen": "../img/squirtle.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 25
+    },    
+    {
+        "id": "pika-gorra",
+        "titulo": "Pikachu con gorra",
+        "imagen": "../img/pikachu-gorra.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 25
+    },
+    {
+        "id": "agumon",
+        "titulo": "Agumon",
+        "imagen": "../img/agumon.jpg",
+        "categoria": {
+            "nombre": "Llaveros",
+            "id": "llaveros"
+        },
+        "precio": 10
+    },
+    {
+        "id": "biyomon",
+        "titulo": "Biyomon",
+        "imagen": "../img/biyomon.jpg",
+        "categoria": {
+            "nombre": "Llaveros",
+            "id": "llaveros"
+        },
+        "precio": 10
+    },
+    {
+        "id": "gabumon",
+        "titulo": "Gabumon",
+        "imagen": "../img/gabumon.jpg",
+        "categoria": {
+            "nombre": "Llaveros",
+            "id": "llaveros"
+        },
+        "precio": 10
+    },
+    {
+        "id": "patamon",
+        "titulo": "Patamon",
+        "imagen": "../img/patamon.jpg",
+        "categoria": {
+            "nombre": "Llaveros",
+            "id": "llaveros"
+        },
+        "precio": 10
+    },
+    {
+        "id": "adventure",
+        "titulo": "Digimon Adventure",
+        "imagen": "../img/adventure.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 15
+    },
+    {
+        "id": "tri",
+        "titulo": "Digimon Adventure Tri",
+        "imagen": "../img/tri.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 15
+    },
+    {
+        "id": "pikachu",
+        "titulo": "Pikachu",
+        "imagen": "../img/pikachu.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 15
+    },
+    {
+        "id": "iniciales",
+        "titulo": "Iniciales",
+        "imagen": "../img/iniciales.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 15
+    }
+]
